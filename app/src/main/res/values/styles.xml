@@ -1,0 +1,28 @@
+<resources xmlns:ns1="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColorHint">@color/colorText</item>
+        <item name="colorControlNormal">@color/colorText</item>
+        <item name="colorControlActivated">@color/colorText</item>
+
+        <item name="colorPrimary1">#00a4c6</item>
+        <item name="colorPrimaryDark1">@color/colorPrimaryDark</item>
+        <item name="colorAccent1">@color/colorAccent</item>
+    </style>
+
+    <style name="Base.Widget.MaterialComponents.TextInputEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:paddingStart" ns1:ignore="NewApi">12dp</item>
+        <item name="android:paddingEnd" ns1:ignore="NewApi">12dp</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:paddingTop">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+    </style>
+
+</resources>

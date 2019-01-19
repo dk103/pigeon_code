@@ -1,0 +1,42 @@
+    {
+  "project_info": {
+    "project_number": "762621050249",
+    "firebase_url": "https://pigeonapp-e0036.firebaseio.com",
+    "project_id": "pigeonapp-e0036",
+    "storage_bucket": "pigeonapp-e0036.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762621050249:android:b28724a21e4f3417",
+        "android_client_info": {
+          "package_name": "com.app.mail.pigeonmailer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762621050249-9emr02tg74gjoq03v6ptho1a0j1ojqd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvfZJ4ovgQm1Uf2FkAWKTwUtBdaXDc9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
